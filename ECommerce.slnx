@@ -1,13 +1,13 @@
 <Solution>
   <Folder Name="/Core/">
-    <Project Path="../ECommerce.Application/ECommerce.Application.csproj" />
-    <Project Path="../ECommerce.Domain/ECommerce.Domain.csproj" />
+    <Project Path="src/Core/ECommerce.Application/ECommerce.Application.csproj" />
+    <Project Path="src/Core/ECommerce.Domain/ECommerce.Domain.csproj" />
   </Folder>
   <Folder Name="/Infrastructure/">
-    <Project Path="../ECommerce.Infrastructure/ECommerce.Infrastructure.csproj" />
-    <Project Path="../ECommerce.Persistence/ECommerce.Persistence.csproj" />
+    <Project Path="src/Infrastructure/ECommerce.Infrastructure/ECommerce.Infrastructure.csproj" />
+    <Project Path="src/Infrastructure/ECommerce.Persistence/ECommerce.Persistence.csproj" />
   </Folder>
   <Folder Name="/Presentation/">
-    <Project Path="ECommerce.API.csproj" />
+    <Project Path="src/Presentation/ECommerce.API.csproj" />
   </Folder>
 </Solution>
